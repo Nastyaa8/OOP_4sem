@@ -1,0 +1,25 @@
+﻿<Window x:Class="TemperatureConverter.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Конвертер температур" Height="200" Width="300">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <TextBox Name="CelsiusInput" Grid.Column="0" Width="100" Margin="5" 
+                 VerticalContentAlignment="Center" 
+                 TextChanged="CelsiusInput_TextChanged" PlaceholderText="°C"/>
+        <TextBlock Grid.Column="1" VerticalAlignment="Center" Text="⇄" FontSize="16" Margin="10"/>
+        <TextBox Name="FahrenheitInput" Grid.Column="2" Width="100" Margin="5" 
+                 VerticalContentAlignment="Center" 
+                 TextChanged="FahrenheitInput_TextChanged" PlaceholderText="°F"/>
+    </Grid>
+</Window>

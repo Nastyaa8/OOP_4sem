@@ -1,0 +1,14 @@
+D:\Универ\OOP\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Универ\OOP\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Универ\OOP\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Универ\OOP\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\Универ\OOP\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Универ\OOP\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\Универ\OOP\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Универ\OOP\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\Универ\OOP\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Универ\OOP\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Универ\OOP\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Универ\OOP\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Универ\OOP\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Универ\OOP\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb

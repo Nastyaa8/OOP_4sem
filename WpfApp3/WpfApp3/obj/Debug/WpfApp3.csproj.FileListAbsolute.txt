@@ -1,0 +1,15 @@
+D:\Универ\OOP\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.AssemblyReference.cache
+D:\Универ\OOP\WpfApp3\WpfApp3\obj\Debug\App.g.cs
+D:\Универ\OOP\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+D:\Универ\OOP\WpfApp3\WpfApp3\obj\Debug\MainWindow.g.cs
+D:\Универ\OOP\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+D:\Универ\OOP\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe.config
+D:\Универ\OOP\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe
+D:\Универ\OOP\WpfApp3\WpfApp3\bin\Debug\WpfApp3.pdb
+D:\Универ\OOP\WpfApp3\WpfApp3\obj\Debug\MainWindow.baml
+D:\Универ\OOP\WpfApp3\WpfApp3\obj\Debug\WpfApp3.g.resources
+D:\Универ\OOP\WpfApp3\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+D:\Универ\OOP\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+D:\Универ\OOP\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+D:\Универ\OOP\WpfApp3\WpfApp3\obj\Debug\WpfApp3.exe
+D:\Универ\OOP\WpfApp3\WpfApp3\obj\Debug\WpfApp3.pdb
